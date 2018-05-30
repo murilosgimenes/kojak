@@ -1,4 +1,4 @@
-![joi Logo](https://www.dropbox.com/s/cc6tjgorfoeviwo/kojak.png?dl=0)
+![joi Logo](https://image.ibb.co/ee66oJ/kojak.png)
 
 [![npm version](https://badge.fury.io/js/joi.svg)](http://badge.fury.io/js/joi)
 [![Build Status](https://travis-ci.org/hapijs/joi.svg?branch=master)](https://travis-ci.org/hapijs/joi)
@@ -7,4 +7,4 @@
 
 # Introduction
 
-kojak is a hapi based node framework. Designed to make development fast, achieve robustness and performance.
+kojak is a hapi-based node generator framework. Designed to make development fast, achieve robustness and performance.
