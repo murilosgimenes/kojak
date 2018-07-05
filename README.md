@@ -7,4 +7,4 @@
 
 # Introduction
 
-kojak is a hapi-based node generator framework. Designed to make development fast, achieve robustness and performance.
+kojak is a express-based node framework. Designed to make development fast, achieve robustness and performance.
